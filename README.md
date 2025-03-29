@@ -1,10 +1,10 @@
-#3D OpenGL Terrain with Collectible Coins and Shadows
+# 3D OpenGL Terrain with Collectible Coins and Shadows
 
-#📌 Project Overview
+# 📌 Project Overview
 
 This project is a real-time 3D rendering simulation using OpenGL, featuring a heightmap-based terrain, collectible coins, and realistic lighting with shadow mapping.
 
-#🚀 Features
+# 🚀 Features
 
 Heightmap-Based Terrain: The terrain is generated using a grayscale heightmap.
 
@@ -16,7 +16,7 @@ Shadow Mapping: Objects cast realistic shadows on the terrain.
 
 Camera & Movement: The player can navigate through the scene with an interactive camera.
 
-#🛠️ Dependencies
+# 🛠️ Dependencies
 
 Ensure you have the following libraries installed before running the project:
 
@@ -30,7 +30,7 @@ GLM (for mathematics operations)
 
 STB Image (for texture loading)
 
-#🔥 Future Improvements
+# 🔥 Future Improvements
 
 Add dynamic shadows for moving objects
 
